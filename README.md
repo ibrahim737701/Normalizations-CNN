@@ -1,6 +1,6 @@
 # TSAIAssignment8
 
-# Convolutional Neural Network Assignment
+# Normalization in Neural Networks Assignment
 
 ## Introduction
 
