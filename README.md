@@ -31,6 +31,10 @@ This assignment involves the implementation and understanding of a Convolutional
 **Layer Normalization** normalizes the inputs across the features instead of the batch dimension. It computes the mean and variance used for normalization from all of the summed inputs to the neurons in a layer on a single training case.
 
 
+**Practical**
 
 
+LayerNorm doesn't work well with image data.
 
+
+<img width="1313" alt="Screenshot 2024-03-23 at 1 54 10 AM" src="https://github.com/ibrahim737701/TSAIAssignment8/assets/51760306/132a87e0-3b3c-4bd6-bacb-1e06fd1ae22b">
