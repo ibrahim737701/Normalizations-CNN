@@ -36,5 +36,16 @@ This assignment involves the implementation and understanding of a Convolutional
 
 LayerNorm doesn't work well with image data.
 
+![image](https://github.com/ibrahim737701/TSAIAssignment8/assets/51760306/17995d2a-84d9-4a73-8a70-2fd18a715ffe)
+
+Batchnorm misclassified images
 
 <img width="1313" alt="Screenshot 2024-03-23 at 1 54 10 AM" src="https://github.com/ibrahim737701/TSAIAssignment8/assets/51760306/132a87e0-3b3c-4bd6-bacb-1e06fd1ae22b">
+
+GroupNorm misclassified images
+
+![image](https://github.com/ibrahim737701/TSAIAssignment8/assets/51760306/f0fac52c-b57d-4651-9d9e-715352077f53)
+
+LsyerNorm misclassified images
+
+
